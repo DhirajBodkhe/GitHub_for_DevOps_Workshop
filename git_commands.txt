@@ -1,1 +1,106 @@
-#
+Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\81405896\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\wor... 
+   2  git init
+   3 git config --global
+   4 git config --edit --global
+   5 ll
+   6 ls
+   7 python.exe .\testing.py
+   8 ls -l
+   9 ls
+  10 dir
+  11 cp .\testing.py .\testing_one.py
+  12 ls
+  13 git init
+  14  dir
+  15 dir -a
+  16 Get-ChildItem -force
+  17 git status
+  18 clear
+  19 git status
+  20 ls
+  21 rm .\testing_one.py
+  22 ls
+  23 touch test.py
+  24 type nul > test1.py
+  25 type nul > test1.py
+  26 type nul > test2.py
+  27 type > tesdt2.py
+  28 dir
+  29 python.exe .\test2.py
+  30 git statu
+  31 git status
+  32 git status
+  33 git add .\test2.py
+  34 git status
+  35 git rm --cached
+  36 git rm --cached .\test1.py
+  37 git rm --cached .\test2.py
+  38 git status
+  39 git add .\test2.py
+  40 git commit .\test2.py
+  41 git status
+  42 git commit .\test2.py
+  43 git add .
+  44 git status
+  45 git rm --cached .\tes*
+  46 git status
+  47 git add .\test2.py
+  48 git status
+  49 git commit -m "add test* files"
+  50 git config --global user.email "dhiraj.bodkhe@gmail.com"
+  51 git commit -m "add test* files"
+  52 git config --global user.name "Dhiraj CSE"
+  53 git config --edit --global
+  54 dir
+  55 git status
+  56 rm .\tesdt2.py
+  57 rm .\test1.py
+  58 git status
+  59 dir
+  60 git commit .\testing.py
+  61 git add .\testing.py
+  62 git commit .\testing.py
+  63 git commit .\testing.py
+  64 git commit .\testing.py
+  65 git commit .\testing.py
+  66 git commit .\testing.py
+  67 git commit .\testing.py -m "commit"
+  68 git status
+  69 dir
+  70 ls
+  71 rm .\testing.py
+  72 ll
+  73 dir
+  74 clear
+  75 git status
+  76 git restore .\test2.py
+  77 dir
+  78 git restore testing.py
+  79 dir
+  80   git staus
+  81 git add .\git_commands
+  82 git commit .\git_commands -m
+  83 git commit .\git_commands -m ""
+  84 git commit .\git_commands -m "d"
+  85   git staus
+  86   git status
+  87 git add .\git_commands.txt
+  88 git commit .\git_commands.txt -m "d"
+  89   git status
+  90 git restore git_commands
+  91   git status
+  92 git commit -a
+  93 git commit -a m "k"
+  94 git commit -m "k"
+  95 git commit -a -m "k"
+  96   git status
+  97 git restore git_commands.txt
+  98   git status
+  99 git add .\git_commands.txt
+ 100   git status
+ 101 git commit -a -m "f"
+
+
+PS E:\VSC\github-for-devops-workshop> 
