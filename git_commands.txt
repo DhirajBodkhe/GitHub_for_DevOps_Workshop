@@ -102,5 +102,19 @@ Id CommandLine
  100   git status
  101 git commit -a -m "f"
 
+ Glossary:
+Set global username and email for Git (Locally).
+#git config --global user.name "<your username>"
+#git config --global user.email "<your email>"
+
+Initialise an empty Git Repository
+#git init
+
+Clone an existing Git Repository
+#git clone <repository URL>
+
+Add file/stage to git
+#git add <filename>
+
 
 PS E:\VSC\github-for-devops-workshop> 
