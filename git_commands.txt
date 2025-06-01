@@ -119,3 +119,5 @@ Add file/stage to git
 
 PS E:\VSC\github-for-devops-workshop> 
 New File to test push
+
+This is new change from the oGitHub.com online
