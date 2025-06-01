@@ -119,10 +119,3 @@ Add file/stage to git
 
 
 PS E:\VSC\github-for-devops-workshop> 
-
-
-
-fdsfdsaf
-
-New commands after 1june
-ddd
